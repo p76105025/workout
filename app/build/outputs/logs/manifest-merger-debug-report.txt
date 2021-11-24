@@ -51,8 +51,6 @@ application
 ADDED from /Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:30:5-47:19
 	android:label
 		ADDED from /Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:31:9-41
-	android:icon
-		ADDED from /Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:33:9-51
 	android:theme
 		ADDED from /Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:32:9-56
 activity#com.wolverine.ble.MainActivity
