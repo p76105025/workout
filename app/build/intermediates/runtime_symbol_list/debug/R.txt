@@ -22,7 +22,6 @@ int id deviceName 0x7f030011
 int id empty 0x7f030012
 int id linearLayout2 0x7f030013
 int id linearLayout3 0x7f030014
-int id listMessage 0x7f030015
 int id message_text 0x7f030016
 int id name 0x7f030017
 int id new_devices 0x7f030018

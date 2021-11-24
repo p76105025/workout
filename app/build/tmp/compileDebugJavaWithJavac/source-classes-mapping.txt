@@ -10,11 +10,10 @@ com/wolverine/ble/MainActivity.java
  com.wolverine.ble.MainActivity$2
  com.wolverine.ble.MainActivity$3
  com.wolverine.ble.MainActivity$4
+ com.wolverine.ble.MainActivity$4$1
+ com.wolverine.ble.MainActivity$4$2
+ com.wolverine.ble.MainActivity$4$3
  com.wolverine.ble.MainActivity$5
- com.wolverine.ble.MainActivity$5$1
- com.wolverine.ble.MainActivity$5$2
- com.wolverine.ble.MainActivity$5$3
- com.wolverine.ble.MainActivity$6
 com/wolverine/ble/DeviceListActivity.java
  com.wolverine.ble.DeviceListActivity
  com.wolverine.ble.DeviceListActivity$1

@@ -21,68 +21,68 @@
 21    android:versionName="2.0" >
 22
 23    <uses-sdk
-23-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:22:5-24:41
+23-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:22:5-24:41
 24        android:minSdkVersion="18"
-24-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:23:9-35
+24-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:23:9-35
 25        android:targetSdkVersion="18" />
-25-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:24:9-38
+25-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:24:9-38
 26
 27    <uses-permission android:name="android.permission.BLUETOOTH" />
-27-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:25:5-68
-27-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:25:22-65
+27-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:25:5-68
+27-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:25:22-65
 28    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-28-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:26:5-74
-28-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:26:22-71
+28-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:26:5-74
+28-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:26:22-71
 29    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-29-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:27:5-78
-29-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:27:22-76
+29-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:27:5-78
+29-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:27:22-76
 30
 31    <application
-31-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:30:5-47:19
+31-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:30:5-47:19
 32        android:debuggable="true"
 33        android:icon="@drawable/nrfuart_hdpi_icon"
-33-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:33:9-51
+33-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:33:9-51
 34        android:label="@string/app_name"
-34-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:31:9-41
+34-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:31:9-41
 35        android:testOnly="true"
 36        android:theme="@android:style/Theme.Holo.Light" >
-36-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:32:9-56
+36-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:32:9-56
 37        <activity
-37-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:34:9-44:20
+37-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:34:9-44:20
 38            android:name="com.wolverine.ble.MainActivity"
-38-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:35:13-58
+38-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:35:13-58
 39            android:configChanges="keyboardHidden|orientation|screenSize"
-39-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:38:13-74
+39-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:38:13-74
 40            android:label="@string/app_name"
-40-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:36:13-45
+40-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:36:13-45
 41            android:windowSoftInputMode="stateHidden" >
-41-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:37:13-54
+41-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:37:13-54
 42            <intent-filter>
-42-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:39:13-43:29
+42-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:39:13-43:29
 43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:40:17-69
-43-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:40:25-66
+43-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:40:17-69
+43-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:40:25-66
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:42:17-77
-45-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:42:27-74
+45-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:42:17-77
+45-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:42:27-74
 46            </intent-filter>
 47        </activity>
 48        <activity
-48-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:45:9-149
+48-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:45:9-149
 49            android:name="com.wolverine.ble.DeviceListActivity"
-49-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:45:19-70
+49-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:45:19-70
 50            android:label="@string/app_name"
-50-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:45:71-103
+50-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:45:71-103
 51            android:theme="@android:style/Theme.Dialog" />
-51-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:45:104-147
+51-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:45:104-147
 52
 53        <service
-53-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:46:9-88
+53-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:46:9-88
 54            android:name="com.wolverine.ble.UartService"
-54-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:46:41-85
+54-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:46:41-85
 55            android:enabled="true" />
-55-->C:\Users\LANS\StudioProjects\nWolverine-BLE\app\src\main\AndroidManifest.xml:46:18-40
+55-->/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/AndroidManifest.xml:46:18-40
 56    </application>
 57
 58</manifest>

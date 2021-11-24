@@ -1,30 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\build\\intermediates\\merged_res\\debug\\layout_device_element.xml.flat",
-        "source": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\src\\main\\res\\layout\\device_element.xml"
+        "merged": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/build/intermediates/merged_res/debug/layout_main.xml.flat",
+        "source": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
-        "source": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/build/intermediates/merged_res/debug/layout_device_list.xml.flat",
+        "source": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/res/layout/device_list.xml"
     },
     {
-        "merged": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\build\\intermediates\\merged_res\\debug\\layout_message_detail.xml.flat",
-        "source": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\src\\main\\res\\layout\\message_detail.xml"
+        "merged": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/build/intermediates/merged_res/debug/layout_dis_values.xml.flat",
+        "source": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/res/layout/dis_values.xml"
     },
     {
-        "merged": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\build\\intermediates\\merged_res\\debug\\layout_device_list.xml.flat",
-        "source": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\src\\main\\res\\layout\\device_list.xml"
+        "merged": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/build/intermediates/merged_res/debug/layout_device_element.xml.flat",
+        "source": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/res/layout/device_element.xml"
     },
     {
-        "merged": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_nrfuart_hdpi_icon.png.flat",
-        "source": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\src\\main\\res\\drawable-hdpi\\nrfuart_hdpi_icon.png"
+        "merged": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/build/intermediates/merged_res/debug/layout_title_bar.xml.flat",
+        "source": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/res/layout/title_bar.xml"
     },
     {
-        "merged": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\build\\intermediates\\merged_res\\debug\\layout_dis_values.xml.flat",
-        "source": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\src\\main\\res\\layout\\dis_values.xml"
+        "merged": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/build/intermediates/merged_res/debug/layout_message_detail.xml.flat",
+        "source": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/res/layout/message_detail.xml"
     },
     {
-        "merged": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\build\\intermediates\\merged_res\\debug\\layout_title_bar.xml.flat",
-        "source": "C:\\Users\\LANS\\StudioProjects\\nWolverine-BLE\\app\\src\\main\\res\\layout\\title_bar.xml"
+        "merged": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/build/intermediates/merged_res/debug/drawable-hdpi_nrfuart_hdpi_icon.png.flat",
+        "source": "/Users/dom/Desktop/research/myResearch/watch/myCode/workout/app/src/main/res/drawable-hdpi/nrfuart_hdpi_icon.png"
     }
 ]
